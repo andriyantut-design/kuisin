@@ -1,0 +1,6 @@
+{
+  "name": "KuisIn",
+  "description": "An AI-powered quiz generator for students and lecturers. Upload lecture notes, PDFs, TXT, or Markdown files to generate custom multiple-choice quizzes with explanations and track progress in the performance history dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
